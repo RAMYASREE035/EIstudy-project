@@ -80,7 +80,7 @@ Exercise 1: Design Patterns Examples
 - `MilkDecorator`, `SugarDecorator`: Concrete decorators adding functionalities to `Coffee`.
 - `Main`: Class demonstrating the pattern by creating decorated coffee objects.
 
-# Exercise 2:Real-Time Chat Application
+# Exercise 2: Real-Time Chat Application
 
 ## Overview
 
