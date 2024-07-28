@@ -1,0 +1,26 @@
+Server Console Output
+
+Chat server started...
+User user1 connected from /127.0.0.1
+User user1 joined room room1
+user1: Hello, everyone!
+user2: Hi user1!
+User user1 left room room1
+User user1 disconnected
+
+
+Client Console Output
+
+Enter your username: user1
+Enter your password: password1
+Enter chat room ID: room1
+Connected to chat room: room1
+User user1 joined the room.
+user1: Hello, everyone!
+user2: Hi user1!
+/list
+Active users:
+user1
+user2
+/quit
+You have left the chat room.
