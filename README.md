@@ -80,3 +80,27 @@ Exercise 1: Design Patterns Examples
 - `MilkDecorator`, `SugarDecorator`: Concrete decorators adding functionalities to `Coffee`.
 - `Main`: Class demonstrating the pattern by creating decorated coffee objects.
 
+# Exercise 2:Real-Time Chat Application
+
+## Overview
+
+This project is a real-time chat application developed in Java. It allows users to communicate instantly with each other, supporting multiple chat rooms, user authentication, and persistent chat history.
+
+## Features
+
+- User authentication and registration.
+- Real-time messaging between users.
+- Persistent chat history storage.
+- Multiple chat rooms or channels.
+- Secure and efficient communication.
+
+## Key Design Patterns
+
+- **Observer Pattern**: Notify clients of new messages or user activities.
+- **Singleton Pattern**: Ensure a single instance of the server.
+- **Adapter Pattern**: Allow the system to work with different types of client communication protocols.
+
+### Prerequisites
+
+- Java Development Kit (JDK) installed.
+
