@@ -1,4 +1,4 @@
-# EIstudy-project
+# Design Pattern 
 Exercise 1: Design Patterns Examples
 
 ## Exercise 1: Design Patterns Examples
